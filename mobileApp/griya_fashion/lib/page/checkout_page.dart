@@ -8,7 +8,7 @@ import 'package:griya_fashion/widgets/option_widget.dart';
 import 'package:griya_fashion/widgets/product_checkout_widget.dart';
 
 class CheckoutPage extends StatelessWidget {
-  ShirtModel? shirtModel;
+  ShirtModel? shirtModel; // boleh null
   CheckoutPage({required this.shirtModel});
   Widget textTotal() {
     return Padding(
