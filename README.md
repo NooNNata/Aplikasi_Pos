@@ -28,7 +28,7 @@ disini adalah letak dari penghubung dari mobile ke databse.
 ## Mobile
 ### View Mobile App
 Keterangan | Foto |
-:---:|:------|
+:---:|:------:|
 1. Tampilan Awal Ketika Aplikasi dibuka | ![tampilan awal](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160657/1.splashscreen_lacjoy.png)
 2. tampilan home atau utama | ![tampilan utama](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160658/2.home_ifrhdz.png)
 3. tampilan detail produk | ![tampilan detail](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160659/3.klik_salah_satu_product_yrgjw9.png)
