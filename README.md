@@ -27,13 +27,13 @@ disini adalah letak dari penghubung dari mobile ke databse.
 
 ## Mobile
 ### View Mobile App
-Keterangan | Foto |
-:---:|:------:|
-1. Tampilan Awal Ketika Aplikasi dibuka | ![tampilan awal](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160657/1.splashscreen_lacjoy.png)|
-2. tampilan home atau utama | ![tampilan utama](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160658/2.home_ifrhdz.png)|
-3. tampilan detail produk | ![tampilan detail](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160659/3.klik_salah_satu_product_yrgjw9.png)|
-4. tampilan troli jika barang belum di tambahkan | ![troli kosong](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160657/4.checkout_tanpa_product_tmgafe.png)|
-5. tampilan jika setelah menekan tombol tambahkan ke trolli | ![troli dengan barang](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160658/5.checkout_product_dmugtz.png)|
-6. tampilan pilhan metode pembayaran, setelah klik tombol bayar | ![metode pembayaran](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160658/6.pilih_pembayaran_s6gmfd.png)|
-7. tampilan kode unik setelah memilih / klik metode pembayaran | ![kode unix](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160659/7.nomer_uni_pembayaran_x6qta9.png)|
-8. tampilan setelah menyelesaikan transaksi | ![transaksi sukses](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160658/8.transaksi_berhasil_fmnosp.png)|
+no|Keterangan | Foto |
+:---:|:------|:-----------|
+1| Tampilan Awal Ketika Aplikasi dibuka | ![tampilan awal](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160657/1.splashscreen_lacjoy.png)
+2| tampilan home atau utama | ![tampilan utama](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160658/2.home_ifrhdz.png)
+3| tampilan detail produk | ![tampilan detail](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160659/3.klik_salah_satu_product_yrgjw9.png)
+4| tampilan troli jika barang belum di tambahkan | ![troli kosong](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160657/4.checkout_tanpa_product_tmgafe.png)
+5| tampilan jika setelah menekan tombol tambahkan ke trolli | ![troli dengan barang](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160658/5.checkout_product_dmugtz.png)
+6| tampilan pilhan metode pembayaran, setelah klik tombol bayar | ![metode pembayaran](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160658/6.pilih_pembayaran_s6gmfd.png)
+7| tampilan kode unik setelah memilih / klik metode pembayaran | ![kode unix](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160659/7.nomer_uni_pembayaran_x6qta9.png)
+8| tampilan setelah menyelesaikan transaksi | ![transaksi sukses](https://res.cloudinary.com/dycpjvu2b/image/upload/v1651160658/8.transaksi_berhasil_fmnosp.png)
