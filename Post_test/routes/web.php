@@ -14,5 +14,25 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('template.home');
+});
+
+Route::get('/detail', function () {
+    return view('template.detail_baju');
+});
+
+Route::get('/checkout', function () {
+    return view('template.checkout');
+});
+
+Route::get('/login', function () {
+    return view('template.login');
+});
+
+Route::get('/daftar', function () {
+    return view('template.daftar');
+});
+
+Route::get('/akun', function () {
+    return view('template.akun');
 });
